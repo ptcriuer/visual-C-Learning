@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shihhao\\source\\repos\\CH3-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D306D920-2B14-4958-90A8-14475C647A89}|CH3-4\\CH3-4.csproj|c:\\users\\shihhao\\source\\repos\\ch3-4\\ch3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D306D920-2B14-4958-90A8-14475C647A89}|CH3-4\\CH3-4.csproj|solutionrelative:ch3-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shihhao\\source\\repos\\CH3-4\\CH3-4\\Program.cs",
+              "RelativeDocumentMoniker": "CH3-4\\Program.cs",
+              "ToolTip": "C:\\Users\\shihhao\\source\\repos\\CH3-4\\CH3-4\\Program.cs*",
+              "RelativeToolTip": "CH3-4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:15:06.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
