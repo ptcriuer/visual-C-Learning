@@ -1,0 +1,15 @@
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\bin\Debug\net8.0\CH3-2.exe
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\bin\Debug\net8.0\CH3-2.deps.json
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\bin\Debug\net8.0\CH3-2.runtimeconfig.json
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\bin\Debug\net8.0\CH3-2.dll
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\bin\Debug\net8.0\CH3-2.pdb
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.AssemblyInfoInputs.cache
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.AssemblyInfo.cs
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.csproj.CoreCompileInputs.cache
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.sourcelink.json
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.dll
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\refint\CH3-2.dll
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.pdb
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\CH3-2.genruntimeconfig.cache
+C:\Users\evan.su\Desktop\C# Learning\CH3\CH3-2\CH3-2\obj\Debug\net8.0\ref\CH3-2.dll
